@@ -6,4 +6,3 @@ def fib(n):
     return series[:n]
 n=int(input())
 print(fib(n))
-5
